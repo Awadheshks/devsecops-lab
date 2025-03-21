@@ -50,7 +50,7 @@ The game implements the following rules:
 ### Prerequisites
 
 - Node.js (v14 or higher)
-- npm or yarn
+- npm 
 
 ### Installation
 
@@ -63,15 +63,11 @@ The game implements the following rules:
 2. Install dependencies:
    ```bash
    npm install
-   # or
-   yarn
    ```
 
 3. Start the development server:
    ```bash
    npm run dev
-   # or
-   yarn dev
    ```
 
 4. Open your browser and navigate to `http://localhost:5173`
@@ -82,8 +78,7 @@ To create a production build:
 
 ```bash
 npm run build
-# or
-yarn build
+
 ```
 
 The build artifacts will be stored in the `dist/` directory.

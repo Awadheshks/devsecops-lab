@@ -1,6 +1,6 @@
 # DevSecOps Pipeline Implementation for Tic Tac Toe Game
 
-![Screenshot 2025-03-04 at 7 16 48 PM](https://github.com/user-attachments/assets/7ed79f9c-9144-4870-accd-500085a15592)
+![img](https://github.com/Awadheshks/devsecops-lab/blob/c0b2407beb2c098a4e094765a66995a104a1f6ba/assets/devsecops.png)
 
 ![image](https://github.com/user-attachments/assets/5b2813a5-f493-4665-8964-77359b5be93a)
 
@@ -56,8 +56,8 @@ The game implements the following rules:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/devsecops-demo.git
-   cd devsecops-demo
+   git clone https://github.com/yourusername/devsecops-lab.git
+   cd devsecops-lab
    ```
 
 2. Install dependencies:

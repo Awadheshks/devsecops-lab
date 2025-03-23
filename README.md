@@ -6,15 +6,13 @@
 
 ## Features
 
-- 🎮 Fully functional Tic Tac Toe game
-- 📊 Score tracking for X, O, and draws
-- 📜 Game history with timestamps
-- 🏆 Highlights winning combinations
-- 🔄 Reset game and statistics
-- 📱 Responsive design for all devices
+- Fully functional game
+- Score tracking for X, O, and draws
+- Game history with timestamps & highlights winning combinations
+- Reset game and statistics
+- Responsive design for all devices
 
 ## Technologies Used
-
 - React 18
 - TypeScript
 - Tailwind CSS
